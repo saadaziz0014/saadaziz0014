@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Muhammad Saad Aziz
 
-Welcome to my GitHub profile! I'm a passionate software developer with experience in [mention your main technologies or areas of expertise].
+Welcome to my GitHub profile! I'm a passionate software developer with experience in MERN stack development.
 
 ## 🚀 About Me
 
