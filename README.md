@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadaziz0014&show_icons=true&theme=radical)
 
 ## 📫 Connect with me
 
