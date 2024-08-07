@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]
 
-<!--
-**saadaziz0014/saadaziz0014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with experience in [mention your main technologies or areas of expertise].
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on MERN stack and Fast API.
+- 🌱 I’m currently learning Langchain.
+- 👯 I’m looking to collaborate on Web Applications.
+- 🤔 I’m looking for help with Generative AI and Vector DB.
+- 💬 Ask me about Express JS.
+- 📫 How to reach me: saadaziz0014@gmail.com.
+- 😄 Pronouns: Developer
+- ⚡ Fun fact: JS lover
+
+## 🛠️ Technologies and Tools
+
+- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) [add other languages]
+- Frameworks and Libraries: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) [add other frameworks and libraries]
+- Databases: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) [add other databases]
+- Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) [add other tools]
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+
+- LinkedIn: (https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/muhammad-saaad/)
+
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
