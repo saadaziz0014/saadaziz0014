@@ -23,11 +23,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadaziz0014&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=saadaziz0014&show_icons=true&theme=radical)
+
+## GitHub Streak
+
+(https://github-readme-streak-stats.herokuapp.com/?user=saadaziz0014)
 
 ## 📫 Connect with me
 
-- LinkedIn: (https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/muhammad-saaad/)
+- LinkedIn: (https://www.linkedin.com/in/muhammad-saaad/)
 
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
