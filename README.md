@@ -23,11 +23,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=saadaziz0014&show_icons=true&theme=radical)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=saadaziz0014&show_icons=true&theme=radical)
 
 ## GitHub Streak
 
-(https://github-readme-streak-stats.herokuapp.com/?user=saadaziz0014)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadaziz0014)
 
 ## 📫 Connect with me
 
