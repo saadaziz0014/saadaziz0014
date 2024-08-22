@@ -21,11 +21,15 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 - Tools: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## 👨‍💻 Programming Languages
+
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaziz0014&layout=compact&langs_count=10&theme=radical)
+
 ## 📈 GitHub Stats
 
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=saadaziz0014&show_icons=true&theme=radical)
 
-## GitHub Streak
+## 🏆 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadaziz0014)
 
