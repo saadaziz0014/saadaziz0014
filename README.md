@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 🏆 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadaziz0014)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadaziz0014&theme=radical)
 
 ## 📫 Connect with me
 
