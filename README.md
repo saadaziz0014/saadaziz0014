@@ -33,9 +33,14 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadaziz0014&theme=radical)
 
+## 🔗 Useful Links
+
+- [My GitHub Profile](https://github.com/saadaziz0014)
+- [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-saaad/)
+
 ## 👤 Profile Views
 
-![Profile Viewes](https://github-profile-trophy.vercel.app/?username=saadaziz0014&theme=radical)
+- [GitHub Profile Views](https://github-profile-views.vercel.app/?username=saadaziz0014)
 
 ## 📫 Connect with me
 
