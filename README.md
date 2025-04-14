@@ -4,11 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on MERN stack and Fast API.
+- 🔭 I’m currently working on MERN stack, Django and Fast API.
 - 🌱 I’m currently learning Langchain.
 - 👯 I’m looking to collaborate on Web Applications.
 - 🤔 I’m looking for help with Generative AI and Vector DB.
-- 💬 Ask me about Express JS.
 - 📫 How to reach me: saadaziz0014@gmail.com.
 - 😄 Pronouns: Developer
 - ⚡ Fun fact: JS lover
