@@ -37,11 +37,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with experienc
 
 ## 👨‍💻 Programming Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadaziz0014&layout=compact&langs_count=10&hide_border=true&theme=radical)
+![Top Languages](./profile/top-langs.svg)
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saadaziz0014&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical)
+![GitHub Stats](./profile/stats.svg)
 
 ## 🔗 Useful Links
 
